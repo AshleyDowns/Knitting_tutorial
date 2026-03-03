@@ -170,19 +170,6 @@
 "subtype":"button"
 }
 ,
-"question":{
-"interactionId":"25010",
-"quizId":-1,
-"text":"",
-"type":"graded",
-"interactionType":"choice",
-"score":{
-"weight":1,
-"penalty":0
-}
-
-}
-,
 "textData":{
 }
 
@@ -254,6 +241,19 @@
 "subtype":"button"
 }
 ,
+"question":{
+"interactionId":"25052",
+"quizId":-1,
+"text":"",
+"type":"graded",
+"interactionType":"choice",
+"score":{
+"weight":1,
+"penalty":0
+}
+
+}
+,
 "textData":{
 }
 
@@ -267,19 +267,6 @@
 "roles":{
 "click":{
 "subtype":"button"
-}
-,
-"question":{
-"interactionId":"25066",
-"quizId":-1,
-"text":"",
-"type":"graded",
-"interactionType":"choice",
-"score":{
-"weight":1,
-"penalty":0
-}
-
 }
 ,
 "textData":{
@@ -374,6 +361,19 @@
 "subtype":"button"
 }
 ,
+"question":{
+"interactionId":"44984",
+"quizId":-1,
+"text":"",
+"type":"graded",
+"interactionType":"choice",
+"score":{
+"weight":1,
+"penalty":0
+}
+
+}
+,
 "textData":{
 }
 
@@ -417,6 +417,18 @@
 "subtype":"button"
 }
 ,
+"question":{
+"quizId":-1,
+"text":"",
+"type":"graded",
+"interactionType":"choice",
+"score":{
+"weight":1,
+"penalty":0
+}
+
+}
+,
 "textData":{
 }
 
@@ -430,6 +442,18 @@
 "roles":{
 "click":{
 "subtype":"button"
+}
+,
+"question":{
+"quizId":-1,
+"text":"",
+"type":"graded",
+"interactionType":"choice",
+"score":{
+"weight":1,
+"penalty":0
+}
+
 }
 ,
 "textData":{
@@ -476,7 +500,6 @@
 }
 ,
 "question":{
-"interactionId":"45054",
 "quizId":-1,
 "text":"",
 "type":"graded",
@@ -501,6 +524,19 @@
 "roles":{
 "click":{
 "subtype":"button"
+}
+,
+"question":{
+"interactionId":"45068",
+"quizId":-1,
+"text":"",
+"type":"graded",
+"interactionType":"choice",
+"score":{
+"weight":1,
+"penalty":0
+}
+
 }
 ,
 "textData":{
@@ -547,7 +583,6 @@
 }
 ,
 "question":{
-"interactionId":"45096",
 "quizId":-1,
 "text":"",
 "type":"graded",
@@ -608,6 +643,19 @@
 "subtype":"button"
 }
 ,
+"question":{
+"interactionId":"68267",
+"quizId":-1,
+"text":"",
+"type":"graded",
+"interactionType":"choice",
+"score":{
+"weight":1,
+"penalty":0
+}
+
+}
+,
 "textData":{
 }
 
@@ -651,6 +699,18 @@
 "subtype":"button"
 }
 ,
+"question":{
+"quizId":-1,
+"text":"",
+"type":"graded",
+"interactionType":"choice",
+"score":{
+"weight":1,
+"penalty":0
+}
+
+}
+,
 "textData":{
 }
 
@@ -664,6 +724,18 @@
 "roles":{
 "click":{
 "subtype":"button"
+}
+,
+"question":{
+"quizId":-1,
+"text":"",
+"type":"graded",
+"interactionType":"choice",
+"score":{
+"weight":1,
+"penalty":0
+}
+
 }
 ,
 "textData":{
@@ -681,6 +753,19 @@
 "subtype":"button"
 }
 ,
+"question":{
+"interactionId":"68320",
+"quizId":-1,
+"text":"",
+"type":"graded",
+"interactionType":"choice",
+"score":{
+"weight":1,
+"penalty":0
+}
+
+}
+,
 "textData":{
 }
 
@@ -696,6 +781,19 @@
 "subtype":"button"
 }
 ,
+"question":{
+"interactionId":"68334",
+"quizId":-1,
+"text":"",
+"type":"graded",
+"interactionType":"choice",
+"score":{
+"weight":1,
+"penalty":0
+}
+
+}
+,
 "textData":{
 }
 
@@ -705,7 +803,7 @@
 {
 "id":"Slide68373",
 "class":"Normal Slide",
-"instance":"Multiple choice A1 - 7",
+"instance":"What if",
 "thumbnail":"",
 "children":[],
 "roles":{
@@ -745,6 +843,19 @@
 "subtype":"button"
 }
 ,
+"question":{
+"interactionId":"63208",
+"quizId":-1,
+"text":"",
+"type":"graded",
+"interactionType":"choice",
+"score":{
+"weight":1,
+"penalty":0
+}
+
+}
+,
 "textData":{
 }
 
@@ -758,6 +869,19 @@
 "roles":{
 "click":{
 "subtype":"button"
+}
+,
+"question":{
+"interactionId":"63216",
+"quizId":-1,
+"text":"",
+"type":"graded",
+"interactionType":"choice",
+"score":{
+"weight":1,
+"penalty":0
+}
+
 }
 ,
 "textData":{
@@ -790,6 +914,19 @@
 "subtype":"button"
 }
 ,
+"question":{
+"interactionId":"63244",
+"quizId":-1,
+"text":"",
+"type":"graded",
+"interactionType":"choice",
+"score":{
+"weight":1,
+"penalty":0
+}
+
+}
+,
 "textData":{
 }
 
@@ -820,6 +957,19 @@
 "subtype":"button"
 }
 ,
+"question":{
+"interactionId":"63275",
+"quizId":-1,
+"text":"",
+"type":"graded",
+"interactionType":"choice",
+"score":{
+"weight":1,
+"penalty":0
+}
+
+}
+,
 "textData":{
 }
 
@@ -829,7 +979,7 @@
 {
 "id":"Slide63314",
 "class":"Normal Slide",
-"instance":"Multiple choice A1 - 3",
+"instance":"For 15 mins",
 "thumbnail":"",
 "children":[],
 "roles":{
@@ -869,6 +1019,19 @@
 "subtype":"button"
 }
 ,
+"question":{
+"interactionId":"68791",
+"quizId":-1,
+"text":"",
+"type":"graded",
+"interactionType":"choice",
+"score":{
+"weight":1,
+"penalty":0
+}
+
+}
+,
 "textData":{
 }
 
@@ -884,6 +1047,18 @@
 "subtype":"button"
 }
 ,
+"question":{
+"quizId":-1,
+"text":"",
+"type":"graded",
+"interactionType":"choice",
+"score":{
+"weight":1,
+"penalty":0
+}
+
+}
+,
 "textData":{
 }
 
@@ -897,6 +1072,19 @@
 "roles":{
 "click":{
 "subtype":"button"
+}
+,
+"question":{
+"interactionId":"68807",
+"quizId":-1,
+"text":"",
+"type":"graded",
+"interactionType":"choice",
+"score":{
+"weight":1,
+"penalty":0
+}
+
 }
 ,
 "textData":{
@@ -929,6 +1117,18 @@
 "subtype":"button"
 }
 ,
+"question":{
+"quizId":-1,
+"text":"",
+"type":"graded",
+"interactionType":"choice",
+"score":{
+"weight":1,
+"penalty":0
+}
+
+}
+,
 "textData":{
 }
 
@@ -944,6 +1144,19 @@
 "subtype":"button"
 }
 ,
+"question":{
+"interactionId":"68858",
+"quizId":-1,
+"text":"",
+"type":"graded",
+"interactionType":"choice",
+"score":{
+"weight":1,
+"penalty":0
+}
+
+}
+,
 "textData":{
 }
 
@@ -953,7 +1166,7 @@
 {
 "id":"Slide68897",
 "class":"Normal Slide",
-"instance":"Multiple choice A1 - 10",
+"instance":"Quiz Q alert",
 "thumbnail":"",
 "children":[],
 "roles":{
@@ -1008,6 +1221,19 @@
 "subtype":"button"
 }
 ,
+"question":{
+"interactionId":"60500",
+"quizId":-1,
+"text":"",
+"type":"graded",
+"interactionType":"choice",
+"score":{
+"weight":1,
+"penalty":0
+}
+
+}
+,
 "textData":{
 }
 
@@ -1021,6 +1247,19 @@
 "roles":{
 "click":{
 "subtype":"button"
+}
+,
+"question":{
+"interactionId":"60508",
+"quizId":-1,
+"text":"",
+"type":"graded",
+"interactionType":"choice",
+"score":{
+"weight":1,
+"penalty":0
+}
+
 }
 ,
 "textData":{
@@ -1052,6 +1291,18 @@
 "roles":{
 "click":{
 "subtype":"button"
+}
+,
+"question":{
+"quizId":-1,
+"text":"",
+"type":"graded",
+"interactionType":"choice",
+"score":{
+"weight":1,
+"penalty":0
+}
+
 }
 ,
 "textData":{
@@ -1099,6 +1350,19 @@
 "subtype":"button"
 }
 ,
+"question":{
+"interactionId":"64885",
+"quizId":-1,
+"text":"",
+"type":"graded",
+"interactionType":"choice",
+"score":{
+"weight":1,
+"penalty":0
+}
+
+}
+,
 "textData":{
 }
 
@@ -1112,6 +1376,19 @@
 "roles":{
 "click":{
 "subtype":"button"
+}
+,
+"question":{
+"interactionId":"64899",
+"quizId":-1,
+"text":"",
+"type":"graded",
+"interactionType":"choice",
+"score":{
+"weight":1,
+"penalty":0
+}
+
 }
 ,
 "textData":{
@@ -1189,6 +1466,18 @@
 "subtype":"button"
 }
 ,
+"question":{
+"quizId":-1,
+"text":"",
+"type":"graded",
+"interactionType":"choice",
+"score":{
+"weight":1,
+"penalty":0
+}
+
+}
+,
 "textData":{
 }
 
@@ -1198,7 +1487,7 @@
 {
 "id":"Slide60547",
 "class":"Normal Slide",
-"instance":"Tactic 1 video - 1",
+"instance":"Intro video - 1",
 "thumbnail":"",
 "children":[],
 "roles":{
@@ -1238,6 +1527,19 @@
 "subtype":"button"
 }
 ,
+"question":{
+"interactionId":"63544",
+"quizId":-1,
+"text":"",
+"type":"graded",
+"interactionType":"choice",
+"score":{
+"weight":1,
+"penalty":0
+}
+
+}
+,
 "textData":{
 }
 
@@ -1266,6 +1568,19 @@
 "roles":{
 "click":{
 "subtype":"button"
+}
+,
+"question":{
+"interactionId":"63560",
+"quizId":-1,
+"text":"",
+"type":"graded",
+"interactionType":"choice",
+"score":{
+"weight":1,
+"penalty":0
+}
+
 }
 ,
 "textData":{
@@ -1322,7 +1637,7 @@
 {
 "id":"Slide63650",
 "class":"Normal Slide",
-"instance":"Multiple choice A1 - 4",
+"instance":"Ready_start",
 "thumbnail":"",
 "children":[],
 "roles":{
@@ -1377,6 +1692,18 @@
 "subtype":"button"
 }
 ,
+"question":{
+"quizId":-1,
+"text":"",
+"type":"graded",
+"interactionType":"choice",
+"score":{
+"weight":1,
+"penalty":0
+}
+
+}
+,
 "textData":{
 }
 
@@ -1390,6 +1717,19 @@
 "roles":{
 "click":{
 "subtype":"button"
+}
+,
+"question":{
+"interactionId":"63464",
+"quizId":-1,
+"text":"",
+"type":"graded",
+"interactionType":"choice",
+"score":{
+"weight":1,
+"penalty":0
+}
+
 }
 ,
 "textData":{
@@ -1453,6 +1793,19 @@
 "subtype":"button"
 }
 ,
+"question":{
+"interactionId":"65056",
+"quizId":-1,
+"text":"",
+"type":"graded",
+"interactionType":"choice",
+"score":{
+"weight":1,
+"penalty":0
+}
+
+}
+,
 "textData":{
 }
 
@@ -1468,6 +1821,19 @@
 "subtype":"button"
 }
 ,
+"question":{
+"interactionId":"65070",
+"quizId":-1,
+"text":"",
+"type":"graded",
+"interactionType":"choice",
+"score":{
+"weight":1,
+"penalty":0
+}
+
+}
+,
 "textData":{
 }
 
@@ -1481,6 +1847,19 @@
 "roles":{
 "click":{
 "subtype":"button"
+}
+,
+"question":{
+"interactionId":"65084",
+"quizId":-1,
+"text":"",
+"type":"graded",
+"interactionType":"choice",
+"score":{
+"weight":1,
+"penalty":0
+}
+
 }
 ,
 "textData":{
@@ -1528,6 +1907,19 @@
 "subtype":"button"
 }
 ,
+"question":{
+"interactionId":"65126",
+"quizId":-1,
+"text":"",
+"type":"graded",
+"interactionType":"choice",
+"score":{
+"weight":1,
+"penalty":0
+}
+
+}
+,
 "textData":{
 }
 
@@ -1541,6 +1933,18 @@
 "roles":{
 "click":{
 "subtype":"button"
+}
+,
+"question":{
+"quizId":-1,
+"text":"",
+"type":"graded",
+"interactionType":"choice",
+"score":{
+"weight":1,
+"penalty":0
+}
+
 }
 ,
 "textData":{
@@ -1567,7 +1971,7 @@
 {
 "id":"Slide63503",
 "class":"Normal Slide",
-"instance":"Tactic 1 video - 3",
+"instance":"Intro video - 2",
 "thumbnail":"",
 "children":[],
 "roles":{
@@ -1947,7 +2351,7 @@
 {
 "id":"Slide53988",
 "class":"Question Slide",
-"instance":"Multiple choice Q1",
+"instance":"Quiz Q1",
 "thumbnail":"",
 "children":[],
 "roles":{
@@ -2005,7 +2409,6 @@
 }
 ,
 "question":{
-"interactionId":"64737",
 "quizId":-1,
 "text":"",
 "type":"graded",
@@ -2040,6 +2443,19 @@
 "subtype":"button"
 }
 ,
+"question":{
+"interactionId":"64755",
+"quizId":-1,
+"text":"",
+"type":"graded",
+"interactionType":"choice",
+"score":{
+"weight":1,
+"penalty":0
+}
+
+}
+,
 "textData":{
 }
 
@@ -2053,6 +2469,19 @@
 "roles":{
 "click":{
 "subtype":"button"
+}
+,
+"question":{
+"interactionId":"64764",
+"quizId":-1,
+"text":"",
+"type":"graded",
+"interactionType":"choice",
+"score":{
+"weight":1,
+"penalty":0
+}
+
 }
 ,
 "textData":{
@@ -2131,6 +2560,18 @@
 "subtype":"button"
 }
 ,
+"question":{
+"quizId":-1,
+"text":"",
+"type":"graded",
+"interactionType":"choice",
+"score":{
+"weight":1,
+"penalty":0
+}
+
+}
+,
 "textData":{
 }
 
@@ -2146,6 +2587,19 @@
 "subtype":"button"
 }
 ,
+"question":{
+"interactionId":"66726",
+"quizId":-1,
+"text":"",
+"type":"graded",
+"interactionType":"choice",
+"score":{
+"weight":1,
+"penalty":0
+}
+
+}
+,
 "textData":{
 }
 
@@ -2159,6 +2613,19 @@
 "roles":{
 "click":{
 "subtype":"button"
+}
+,
+"question":{
+"interactionId":"66740",
+"quizId":-1,
+"text":"",
+"type":"graded",
+"interactionType":"choice",
+"score":{
+"weight":1,
+"penalty":0
+}
+
 }
 ,
 "textData":{
@@ -2221,6 +2688,19 @@
 "subtype":"button"
 }
 ,
+"question":{
+"interactionId":"66796",
+"quizId":-1,
+"text":"",
+"type":"graded",
+"interactionType":"choice",
+"score":{
+"weight":1,
+"penalty":0
+}
+
+}
+,
 "textData":{
 }
 
@@ -2236,6 +2716,19 @@
 "subtype":"button"
 }
 ,
+"question":{
+"interactionId":"66810",
+"quizId":-1,
+"text":"",
+"type":"graded",
+"interactionType":"choice",
+"score":{
+"weight":1,
+"penalty":0
+}
+
+}
+,
 "textData":{
 }
 
@@ -2245,7 +2738,7 @@
 {
 "id":"Slide64823",
 "class":"Normal Slide",
-"instance":"Short answer A6 - 6",
+"instance":"Quiz A1",
 "thumbnail":"",
 "children":[],
 "roles":{
@@ -2300,6 +2793,19 @@
 "subtype":"button"
 }
 ,
+"question":{
+"interactionId":"46766",
+"quizId":-1,
+"text":"",
+"type":"graded",
+"interactionType":"choice",
+"score":{
+"weight":1,
+"penalty":0
+}
+
+}
+,
 "textData":{
 }
 
@@ -2313,6 +2819,19 @@
 "roles":{
 "click":{
 "subtype":"button"
+}
+,
+"question":{
+"interactionId":"46774",
+"quizId":-1,
+"text":"",
+"type":"graded",
+"interactionType":"choice",
+"score":{
+"weight":1,
+"penalty":0
+}
+
 }
 ,
 "textData":{
@@ -2376,6 +2895,19 @@
 "subtype":"button"
 }
 ,
+"question":{
+"interactionId":"65432",
+"quizId":-1,
+"text":"",
+"type":"graded",
+"interactionType":"choice",
+"score":{
+"weight":1,
+"penalty":0
+}
+
+}
+,
 "textData":{
 }
 
@@ -2421,6 +2953,19 @@
 "subtype":"button"
 }
 ,
+"question":{
+"interactionId":"65474",
+"quizId":-1,
+"text":"",
+"type":"graded",
+"interactionType":"choice",
+"score":{
+"weight":1,
+"penalty":0
+}
+
+}
+,
 "textData":{
 }
 
@@ -2434,6 +2979,18 @@
 "roles":{
 "click":{
 "subtype":"button"
+}
+,
+"question":{
+"quizId":-1,
+"text":"",
+"type":"graded",
+"interactionType":"choice",
+"score":{
+"weight":1,
+"penalty":0
+}
+
 }
 ,
 "textData":{
@@ -2451,6 +3008,19 @@
 "subtype":"button"
 }
 ,
+"question":{
+"interactionId":"65502",
+"quizId":-1,
+"text":"",
+"type":"graded",
+"interactionType":"choice",
+"score":{
+"weight":1,
+"penalty":0
+}
+
+}
+,
 "textData":{
 }
 
@@ -2464,6 +3034,18 @@
 "roles":{
 "click":{
 "subtype":"button"
+}
+,
+"question":{
+"quizId":-1,
+"text":"",
+"type":"graded",
+"interactionType":"choice",
+"score":{
+"weight":1,
+"penalty":0
+}
+
 }
 ,
 "textData":{
@@ -2481,6 +3063,19 @@
 "subtype":"button"
 }
 ,
+"question":{
+"interactionId":"65530",
+"quizId":-1,
+"text":"",
+"type":"graded",
+"interactionType":"choice",
+"score":{
+"weight":1,
+"penalty":0
+}
+
+}
+,
 "textData":{
 }
 
@@ -2490,7 +3085,7 @@
 {
 "id":"Slide46813",
 "class":"Normal Slide",
-"instance":"Tactic 1 video",
+"instance":"Step 1 - video",
 "thumbnail":"",
 "children":[],
 "roles":{
@@ -2853,7 +3448,7 @@
 {
 "id":"Slide56811",
 "class":"Question Slide",
-"instance":"Multiple choice Q2",
+"instance":"Quiz Q2",
 "thumbnail":"",
 "children":[],
 "roles":{
@@ -2911,7 +3506,6 @@
 }
 ,
 "question":{
-"interactionId":"64017",
 "quizId":-1,
 "text":"",
 "type":"graded",
@@ -2959,6 +3553,19 @@
 "roles":{
 "click":{
 "subtype":"button"
+}
+,
+"question":{
+"interactionId":"64044",
+"quizId":-1,
+"text":"",
+"type":"graded",
+"interactionType":"choice",
+"score":{
+"weight":1,
+"penalty":0
+}
+
 }
 ,
 "textData":{
@@ -3022,6 +3629,18 @@
 "subtype":"button"
 }
 ,
+"question":{
+"quizId":-1,
+"text":"",
+"type":"graded",
+"interactionType":"choice",
+"score":{
+"weight":1,
+"penalty":0
+}
+
+}
+,
 "textData":{
 }
 
@@ -3037,6 +3656,19 @@
 "subtype":"button"
 }
 ,
+"question":{
+"interactionId":"67052",
+"quizId":-1,
+"text":"",
+"type":"graded",
+"interactionType":"choice",
+"score":{
+"weight":1,
+"penalty":0
+}
+
+}
+,
 "textData":{
 }
 
@@ -3050,6 +3682,19 @@
 "roles":{
 "click":{
 "subtype":"button"
+}
+,
+"question":{
+"interactionId":"67066",
+"quizId":-1,
+"text":"",
+"type":"graded",
+"interactionType":"choice",
+"score":{
+"weight":1,
+"penalty":0
+}
+
 }
 ,
 "textData":{
@@ -3097,6 +3742,18 @@
 "subtype":"button"
 }
 ,
+"question":{
+"quizId":-1,
+"text":"",
+"type":"graded",
+"interactionType":"choice",
+"score":{
+"weight":1,
+"penalty":0
+}
+
+}
+,
 "textData":{
 }
 
@@ -3142,6 +3799,19 @@
 "subtype":"button"
 }
 ,
+"question":{
+"interactionId":"67150",
+"quizId":-1,
+"text":"",
+"type":"graded",
+"interactionType":"choice",
+"score":{
+"weight":1,
+"penalty":0
+}
+
+}
+,
 "textData":{
 }
 
@@ -3151,7 +3821,7 @@
 {
 "id":"Slide64103",
 "class":"Normal Slide",
-"instance":"Short answer A6 - 1",
+"instance":"Quiz A2",
 "thumbnail":"",
 "children":[],
 "roles":{
@@ -3206,6 +3876,19 @@
 "subtype":"button"
 }
 ,
+"question":{
+"interactionId":"46841",
+"quizId":-1,
+"text":"",
+"type":"graded",
+"interactionType":"choice",
+"score":{
+"weight":1,
+"penalty":0
+}
+
+}
+,
 "textData":{
 }
 
@@ -3219,6 +3902,19 @@
 "roles":{
 "click":{
 "subtype":"button"
+}
+,
+"question":{
+"interactionId":"46849",
+"quizId":-1,
+"text":"",
+"type":"graded",
+"interactionType":"choice",
+"score":{
+"weight":1,
+"penalty":0
+}
+
 }
 ,
 "textData":{
@@ -3267,6 +3963,19 @@
 "subtype":"button"
 }
 ,
+"question":{
+"interactionId":"65603",
+"quizId":-1,
+"text":"",
+"type":"graded",
+"interactionType":"choice",
+"score":{
+"weight":1,
+"penalty":0
+}
+
+}
+,
 "textData":{
 }
 
@@ -3282,6 +3991,18 @@
 "subtype":"button"
 }
 ,
+"question":{
+"quizId":-1,
+"text":"",
+"type":"graded",
+"interactionType":"choice",
+"score":{
+"weight":1,
+"penalty":0
+}
+
+}
+,
 "textData":{
 }
 
@@ -3295,6 +4016,19 @@
 "roles":{
 "click":{
 "subtype":"button"
+}
+,
+"question":{
+"interactionId":"65631",
+"quizId":-1,
+"text":"",
+"type":"graded",
+"interactionType":"choice",
+"score":{
+"weight":1,
+"penalty":0
+}
+
 }
 ,
 "textData":{
@@ -3357,6 +4091,18 @@
 "subtype":"button"
 }
 ,
+"question":{
+"quizId":-1,
+"text":"",
+"type":"graded",
+"interactionType":"choice",
+"score":{
+"weight":1,
+"penalty":0
+}
+
+}
+,
 "textData":{
 }
 
@@ -3370,6 +4116,18 @@
 "roles":{
 "click":{
 "subtype":"button"
+}
+,
+"question":{
+"quizId":-1,
+"text":"",
+"type":"graded",
+"interactionType":"choice",
+"score":{
+"weight":1,
+"penalty":0
+}
+
 }
 ,
 "textData":{
@@ -3396,7 +4154,7 @@
 {
 "id":"Slide46888",
 "class":"Normal Slide",
-"instance":"Tactic 2 video",
+"instance":"Step 2- video",
 "thumbnail":"",
 "children":[],
 "roles":{
@@ -3776,7 +4534,7 @@
 {
 "id":"Slide54558",
 "class":"Question Slide",
-"instance":"Multiple choice Q3",
+"instance":"Quiz Q3",
 "thumbnail":"",
 "children":[],
 "roles":{
@@ -3930,6 +4688,19 @@
 "subtype":"button"
 }
 ,
+"question":{
+"interactionId":"67194",
+"quizId":-1,
+"text":"",
+"type":"graded",
+"interactionType":"choice",
+"score":{
+"weight":1,
+"penalty":0
+}
+
+}
+,
 "textData":{
 }
 
@@ -3943,6 +4714,19 @@
 "roles":{
 "click":{
 "subtype":"button"
+}
+,
+"question":{
+"interactionId":"67208",
+"quizId":-1,
+"text":"",
+"type":"graded",
+"interactionType":"choice",
+"score":{
+"weight":1,
+"penalty":0
+}
+
 }
 ,
 "textData":{
@@ -4035,6 +4819,19 @@
 "subtype":"button"
 }
 ,
+"question":{
+"interactionId":"67292",
+"quizId":-1,
+"text":"",
+"type":"graded",
+"interactionType":"choice",
+"score":{
+"weight":1,
+"penalty":0
+}
+
+}
+,
 "textData":{
 }
 
@@ -4065,6 +4862,18 @@
 "subtype":"button"
 }
 ,
+"question":{
+"quizId":-1,
+"text":"",
+"type":"graded",
+"interactionType":"choice",
+"score":{
+"weight":1,
+"penalty":0
+}
+
+}
+,
 "textData":{
 }
 
@@ -4074,7 +4883,7 @@
 {
 "id":"Slide64223",
 "class":"Normal Slide",
-"instance":"Short answer A6 - 2",
+"instance":"Quiz A3",
 "thumbnail":"",
 "children":[],
 "roles":{
@@ -4144,6 +4953,19 @@
 "subtype":"button"
 }
 ,
+"question":{
+"interactionId":"47022",
+"quizId":-1,
+"text":"",
+"type":"graded",
+"interactionType":"choice",
+"score":{
+"weight":1,
+"penalty":0
+}
+
+}
+,
 "textData":{
 }
 
@@ -4190,6 +5012,18 @@
 "subtype":"button"
 }
 ,
+"question":{
+"quizId":-1,
+"text":"",
+"type":"graded",
+"interactionType":"choice",
+"score":{
+"weight":1,
+"penalty":0
+}
+
+}
+,
 "textData":{
 }
 
@@ -4203,6 +5037,19 @@
 "roles":{
 "click":{
 "subtype":"button"
+}
+,
+"question":{
+"interactionId":"65802",
+"quizId":-1,
+"text":"",
+"type":"graded",
+"interactionType":"choice",
+"score":{
+"weight":1,
+"penalty":0
+}
+
 }
 ,
 "textData":{
@@ -4250,6 +5097,18 @@
 "subtype":"button"
 }
 ,
+"question":{
+"quizId":-1,
+"text":"",
+"type":"graded",
+"interactionType":"choice",
+"score":{
+"weight":1,
+"penalty":0
+}
+
+}
+,
 "textData":{
 }
 
@@ -4280,6 +5139,18 @@
 "subtype":"button"
 }
 ,
+"question":{
+"quizId":-1,
+"text":"",
+"type":"graded",
+"interactionType":"choice",
+"score":{
+"weight":1,
+"penalty":0
+}
+
+}
+,
 "textData":{
 }
 
@@ -4293,6 +5164,18 @@
 "roles":{
 "click":{
 "subtype":"button"
+}
+,
+"question":{
+"quizId":-1,
+"text":"",
+"type":"graded",
+"interactionType":"choice",
+"score":{
+"weight":1,
+"penalty":0
+}
+
 }
 ,
 "textData":{
@@ -4319,7 +5202,7 @@
 {
 "id":"Slide47061",
 "class":"Normal Slide",
-"instance":"Tactic 3 video",
+"instance":"Step 3- video",
 "thumbnail":"",
 "children":[],
 "roles":{
@@ -4682,7 +5565,7 @@
 {
 "id":"Slide57837",
 "class":"Question Slide",
-"instance":"Multiple choice Q4",
+"instance":"Quiz Q4",
 "thumbnail":"",
 "children":[],
 "roles":{
@@ -4851,6 +5734,18 @@
 "subtype":"button"
 }
 ,
+"question":{
+"quizId":-1,
+"text":"",
+"type":"graded",
+"interactionType":"choice",
+"score":{
+"weight":1,
+"penalty":0
+}
+
+}
+,
 "textData":{
 }
 
@@ -4864,6 +5759,18 @@
 "roles":{
 "click":{
 "subtype":"button"
+}
+,
+"question":{
+"quizId":-1,
+"text":"",
+"type":"graded",
+"interactionType":"choice",
+"score":{
+"weight":1,
+"penalty":0
+}
+
 }
 ,
 "textData":{
@@ -4881,6 +5788,18 @@
 "subtype":"button"
 }
 ,
+"question":{
+"quizId":-1,
+"text":"",
+"type":"graded",
+"interactionType":"choice",
+"score":{
+"weight":1,
+"penalty":0
+}
+
+}
+,
 "textData":{
 }
 
@@ -4896,6 +5815,19 @@
 "subtype":"button"
 }
 ,
+"question":{
+"interactionId":"67420",
+"quizId":-1,
+"text":"",
+"type":"graded",
+"interactionType":"choice",
+"score":{
+"weight":1,
+"penalty":0
+}
+
+}
+,
 "textData":{
 }
 
@@ -4909,6 +5841,18 @@
 "roles":{
 "click":{
 "subtype":"button"
+}
+,
+"question":{
+"quizId":-1,
+"text":"",
+"type":"graded",
+"interactionType":"choice",
+"score":{
+"weight":1,
+"penalty":0
+}
+
 }
 ,
 "textData":{
@@ -4956,6 +5900,19 @@
 "subtype":"button"
 }
 ,
+"question":{
+"interactionId":"67476",
+"quizId":-1,
+"text":"",
+"type":"graded",
+"interactionType":"choice",
+"score":{
+"weight":1,
+"penalty":0
+}
+
+}
+,
 "textData":{
 }
 
@@ -4980,7 +5937,7 @@
 {
 "id":"Slide64343",
 "class":"Normal Slide",
-"instance":"Short answer A6 - 3",
+"instance":"Quiz A4",
 "thumbnail":"",
 "children":[],
 "roles":{
@@ -5035,6 +5992,18 @@
 "subtype":"button"
 }
 ,
+"question":{
+"quizId":-1,
+"text":"",
+"type":"graded",
+"interactionType":"choice",
+"score":{
+"weight":1,
+"penalty":0
+}
+
+}
+,
 "textData":{
 }
 
@@ -5081,6 +6050,18 @@
 "subtype":"button"
 }
 ,
+"question":{
+"quizId":-1,
+"text":"",
+"type":"graded",
+"interactionType":"choice",
+"score":{
+"weight":1,
+"penalty":0
+}
+
+}
+,
 "textData":{
 }
 
@@ -5096,6 +6077,18 @@
 "subtype":"button"
 }
 ,
+"question":{
+"quizId":-1,
+"text":"",
+"type":"graded",
+"interactionType":"choice",
+"score":{
+"weight":1,
+"penalty":0
+}
+
+}
+,
 "textData":{
 }
 
@@ -5109,6 +6102,19 @@
 "roles":{
 "click":{
 "subtype":"button"
+}
+,
+"question":{
+"interactionId":"65987",
+"quizId":-1,
+"text":"",
+"type":"graded",
+"interactionType":"choice",
+"score":{
+"weight":1,
+"penalty":0
+}
+
 }
 ,
 "textData":{
@@ -5141,6 +6147,19 @@
 "subtype":"button"
 }
 ,
+"question":{
+"interactionId":"66015",
+"quizId":-1,
+"text":"",
+"type":"graded",
+"interactionType":"choice",
+"score":{
+"weight":1,
+"penalty":0
+}
+
+}
+,
 "textData":{
 }
 
@@ -5156,6 +6175,19 @@
 "subtype":"button"
 }
 ,
+"question":{
+"interactionId":"66029",
+"quizId":-1,
+"text":"",
+"type":"graded",
+"interactionType":"choice",
+"score":{
+"weight":1,
+"penalty":0
+}
+
+}
+,
 "textData":{
 }
 
@@ -5169,6 +6201,19 @@
 "roles":{
 "click":{
 "subtype":"button"
+}
+,
+"question":{
+"interactionId":"66043",
+"quizId":-1,
+"text":"",
+"type":"graded",
+"interactionType":"choice",
+"score":{
+"weight":1,
+"penalty":0
+}
+
 }
 ,
 "textData":{
@@ -5201,6 +6246,18 @@
 "subtype":"button"
 }
 ,
+"question":{
+"quizId":-1,
+"text":"",
+"type":"graded",
+"interactionType":"choice",
+"score":{
+"weight":1,
+"penalty":0
+}
+
+}
+,
 "textData":{
 }
 
@@ -5216,6 +6273,19 @@
 "subtype":"button"
 }
 ,
+"question":{
+"interactionId":"66085",
+"quizId":-1,
+"text":"",
+"type":"graded",
+"interactionType":"choice",
+"score":{
+"weight":1,
+"penalty":0
+}
+
+}
+,
 "textData":{
 }
 
@@ -5225,7 +6295,7 @@
 {
 "id":"Slide47234",
 "class":"Normal Slide",
-"instance":"Tactic 4 video",
+"instance":"Step 4 - video",
 "thumbnail":"",
 "children":[],
 "roles":{
@@ -5605,7 +6675,7 @@
 {
 "id":"Slide55106",
 "class":"Question Slide",
-"instance":"Multiple choice Q5",
+"instance":"Quiz Q5",
 "thumbnail":"",
 "children":[],
 "roles":{
@@ -5713,6 +6783,19 @@
 "subtype":"button"
 }
 ,
+"question":{
+"interactionId":"64404",
+"quizId":-1,
+"text":"",
+"type":"graded",
+"interactionType":"choice",
+"score":{
+"weight":1,
+"penalty":0
+}
+
+}
+,
 "textData":{
 }
 
@@ -5726,6 +6809,18 @@
 "roles":{
 "click":{
 "subtype":"button"
+}
+,
+"question":{
+"quizId":-1,
+"text":"",
+"type":"graded",
+"interactionType":"choice",
+"score":{
+"weight":1,
+"penalty":0
+}
+
 }
 ,
 "textData":{
@@ -5759,6 +6854,18 @@
 "subtype":"button"
 }
 ,
+"question":{
+"quizId":-1,
+"text":"",
+"type":"graded",
+"interactionType":"choice",
+"score":{
+"weight":1,
+"penalty":0
+}
+
+}
+,
 "textData":{
 }
 
@@ -5772,6 +6879,19 @@
 "roles":{
 "click":{
 "subtype":"button"
+}
+,
+"question":{
+"interactionId":"67548",
+"quizId":-1,
+"text":"",
+"type":"graded",
+"interactionType":"choice",
+"score":{
+"weight":1,
+"penalty":0
+}
+
 }
 ,
 "textData":{
@@ -5804,6 +6924,18 @@
 "subtype":"button"
 }
 ,
+"question":{
+"quizId":-1,
+"text":"",
+"type":"graded",
+"interactionType":"choice",
+"score":{
+"weight":1,
+"penalty":0
+}
+
+}
+,
 "textData":{
 }
 
@@ -5819,6 +6951,19 @@
 "subtype":"button"
 }
 ,
+"question":{
+"interactionId":"67590",
+"quizId":-1,
+"text":"",
+"type":"graded",
+"interactionType":"choice",
+"score":{
+"weight":1,
+"penalty":0
+}
+
+}
+,
 "textData":{
 }
 
@@ -5832,6 +6977,18 @@
 "roles":{
 "click":{
 "subtype":"button"
+}
+,
+"question":{
+"quizId":-1,
+"text":"",
+"type":"graded",
+"interactionType":"choice",
+"score":{
+"weight":1,
+"penalty":0
+}
+
 }
 ,
 "textData":{
@@ -5879,6 +7036,19 @@
 "subtype":"button"
 }
 ,
+"question":{
+"interactionId":"67646",
+"quizId":-1,
+"text":"",
+"type":"graded",
+"interactionType":"choice",
+"score":{
+"weight":1,
+"penalty":0
+}
+
+}
+,
 "textData":{
 }
 
@@ -5903,7 +7073,7 @@
 {
 "id":"Slide64463",
 "class":"Normal Slide",
-"instance":"Short answer A6 - 4",
+"instance":"Quiz A5",
 "thumbnail":"",
 "children":[],
 "roles":{
@@ -5958,6 +7128,18 @@
 "subtype":"button"
 }
 ,
+"question":{
+"quizId":-1,
+"text":"",
+"type":"graded",
+"interactionType":"choice",
+"score":{
+"weight":1,
+"penalty":0
+}
+
+}
+,
 "textData":{
 }
 
@@ -5971,6 +7153,19 @@
 "roles":{
 "click":{
 "subtype":"button"
+}
+,
+"question":{
+"interactionId":"47466",
+"quizId":-1,
+"text":"",
+"type":"graded",
+"interactionType":"choice",
+"score":{
+"weight":1,
+"penalty":0
+}
+
 }
 ,
 "textData":{
@@ -6004,6 +7199,19 @@
 "subtype":"button"
 }
 ,
+"question":{
+"interactionId":"66144",
+"quizId":-1,
+"text":"",
+"type":"graded",
+"interactionType":"choice",
+"score":{
+"weight":1,
+"penalty":0
+}
+
+}
+,
 "textData":{
 }
 
@@ -6017,6 +7225,19 @@
 "roles":{
 "click":{
 "subtype":"button"
+}
+,
+"question":{
+"interactionId":"66158",
+"quizId":-1,
+"text":"",
+"type":"graded",
+"interactionType":"choice",
+"score":{
+"weight":1,
+"penalty":0
+}
+
 }
 ,
 "textData":{
@@ -6049,6 +7270,19 @@
 "subtype":"button"
 }
 ,
+"question":{
+"interactionId":"66186",
+"quizId":-1,
+"text":"",
+"type":"graded",
+"interactionType":"choice",
+"score":{
+"weight":1,
+"penalty":0
+}
+
+}
+,
 "textData":{
 }
 
@@ -6079,6 +7313,18 @@
 "subtype":"button"
 }
 ,
+"question":{
+"quizId":-1,
+"text":"",
+"type":"graded",
+"interactionType":"choice",
+"score":{
+"weight":1,
+"penalty":0
+}
+
+}
+,
 "textData":{
 }
 
@@ -6092,6 +7338,18 @@
 "roles":{
 "click":{
 "subtype":"button"
+}
+,
+"question":{
+"quizId":-1,
+"text":"",
+"type":"graded",
+"interactionType":"choice",
+"score":{
+"weight":1,
+"penalty":0
+}
+
 }
 ,
 "textData":{
@@ -6124,6 +7382,18 @@
 "subtype":"button"
 }
 ,
+"question":{
+"quizId":-1,
+"text":"",
+"type":"graded",
+"interactionType":"choice",
+"score":{
+"weight":1,
+"penalty":0
+}
+
+}
+,
 "textData":{
 }
 
@@ -6139,6 +7409,19 @@
 "subtype":"button"
 }
 ,
+"question":{
+"interactionId":"66270",
+"quizId":-1,
+"text":"",
+"type":"graded",
+"interactionType":"choice",
+"score":{
+"weight":1,
+"penalty":0
+}
+
+}
+,
 "textData":{
 }
 
@@ -6148,7 +7431,7 @@
 {
 "id":"Slide47505",
 "class":"Normal Slide",
-"instance":"Tactic 5 video",
+"instance":"Step 5- video",
 "thumbnail":"",
 "children":[],
 "roles":{
@@ -6511,7 +7794,7 @@
 {
 "id":"Slide58851",
 "class":"Question Slide",
-"instance":"Multiple choice 1",
+"instance":"Quiz Q6",
 "thumbnail":"",
 "children":[],
 "roles":{
@@ -6755,6 +8038,19 @@
 "subtype":"button"
 }
 ,
+"question":{
+"interactionId":"67788",
+"quizId":-1,
+"text":"",
+"type":"graded",
+"interactionType":"choice",
+"score":{
+"weight":1,
+"penalty":0
+}
+
+}
+,
 "textData":{
 }
 
@@ -6768,6 +8064,18 @@
 "roles":{
 "click":{
 "subtype":"button"
+}
+,
+"question":{
+"quizId":-1,
+"text":"",
+"type":"graded",
+"interactionType":"choice",
+"score":{
+"weight":1,
+"penalty":0
+}
+
 }
 ,
 "textData":{
@@ -6800,6 +8108,19 @@
 "subtype":"button"
 }
 ,
+"question":{
+"interactionId":"67830",
+"quizId":-1,
+"text":"",
+"type":"graded",
+"interactionType":"choice",
+"score":{
+"weight":1,
+"penalty":0
+}
+
+}
+,
 "textData":{
 }
 
@@ -6809,7 +8130,7 @@
 {
 "id":"Slide64703",
 "class":"Normal Slide",
-"instance":"Short answer A6 - 5",
+"instance":"Quiz A6",
 "thumbnail":"",
 "children":[],
 "roles":{
@@ -6825,25 +8146,25 @@
 
 },
 {
-"id":"si47558",
+"id":"si70161",
 "class":"TODO::Senthil",
-"instance":"Slide_video_7",
+"instance":"Slide_video_14",
 "roles":{
 }
 
 },
 {
-"id":"si47552",
+"id":"si70155",
 "class":"TODO::Senthil",
-"instance":"Video_Group_7",
+"instance":"Video_Group_14",
 "roles":{
 }
 
 },
 {
-"id":"si47530",
+"id":"si70133",
 "class":"TODO::Senthil",
-"instance":"Step_6_mp4_1",
+"instance":"Step_6_(1)_mp4_1",
 "video":{
 "title":"Video title- NI",
 "uri":"Video title- NI",
@@ -6856,9 +8177,135 @@
 
 },
 {
-"id":"si47538",
+"id":"si70141",
 "class":"TODO::Senthil",
-"instance":"Text_1045",
+"instance":"Text_1226",
+"roles":{
+"click":{
+"subtype":"button"
+}
+,
+"question":{
+"quizId":-1,
+"text":"",
+"type":"graded",
+"interactionType":"choice",
+"score":{
+"weight":1,
+"penalty":0
+}
+
+}
+,
+"textData":{
+}
+
+}
+
+},
+{
+"id":"si70149",
+"class":"TODO::Senthil",
+"instance":"Text_1227",
+"roles":{
+"click":{
+"subtype":"button"
+}
+,
+"question":{
+"quizId":-1,
+"text":"",
+"type":"graded",
+"interactionType":"choice",
+"score":{
+"weight":1,
+"penalty":0
+}
+
+}
+,
+"textData":{
+}
+
+}
+
+},
+{
+"id":"si70326",
+"class":"TODO::Senthil",
+"instance":"Block_Button_29",
+"roles":{
+}
+
+},
+{
+"id":"si70320",
+"class":"TODO::Senthil",
+"instance":"Block_Button_Group_29",
+"roles":{
+}
+
+},
+{
+"id":"si70185",
+"class":"TODO::Senthil",
+"instance":"Button_1431",
+"roles":{
+"click":{
+"subtype":"button"
+}
+,
+"question":{
+"interactionId":"70180",
+"quizId":-1,
+"text":"",
+"type":"graded",
+"interactionType":"choice",
+"score":{
+"weight":1,
+"penalty":0
+}
+
+}
+,
+"textData":{
+}
+
+}
+
+},
+{
+"id":"si70202",
+"class":"TODO::Senthil",
+"instance":"Button_1432",
+"roles":{
+"click":{
+"subtype":"button"
+}
+,
+"question":{
+"interactionId":"70197",
+"quizId":-1,
+"text":"",
+"type":"graded",
+"interactionType":"choice",
+"score":{
+"weight":1,
+"penalty":0
+}
+
+}
+,
+"textData":{
+}
+
+}
+
+},
+{
+"id":"si70216",
+"class":"TODO::Senthil",
+"instance":"Button_1433",
 "roles":{
 "click":{
 "subtype":"button"
@@ -6871,9 +8318,37 @@
 
 },
 {
-"id":"si47546",
+"id":"si70230",
 "class":"TODO::Senthil",
-"instance":"Text_1046",
+"instance":"Button_1434",
+"roles":{
+"click":{
+"subtype":"button"
+}
+,
+"question":{
+"interactionId":"70225",
+"quizId":-1,
+"text":"",
+"type":"graded",
+"interactionType":"choice",
+"score":{
+"weight":1,
+"penalty":0
+}
+
+}
+,
+"textData":{
+}
+
+}
+
+},
+{
+"id":"si70244",
+"class":"TODO::Senthil",
+"instance":"Button_1435",
 "roles":{
 "click":{
 "subtype":"button"
@@ -6886,25 +8361,93 @@
 
 },
 {
-"id":"si66310",
+"id":"si70258",
 "class":"TODO::Senthil",
-"instance":"Block_Button_17",
+"instance":"Button_1436",
 "roles":{
+"click":{
+"subtype":"button"
+}
+,
+"question":{
+"interactionId":"70253",
+"quizId":-1,
+"text":"",
+"type":"graded",
+"interactionType":"choice",
+"score":{
+"weight":1,
+"penalty":0
+}
+
+}
+,
+"textData":{
+}
+
 }
 
 },
 {
-"id":"si66318",
+"id":"si70272",
 "class":"TODO::Senthil",
-"instance":"Block_Button_Group_17",
+"instance":"Button_1437",
 "roles":{
+"click":{
+"subtype":"button"
+}
+,
+"question":{
+"interactionId":"70267",
+"quizId":-1,
+"text":"",
+"type":"graded",
+"interactionType":"choice",
+"score":{
+"weight":1,
+"penalty":0
+}
+
+}
+,
+"textData":{
+}
+
 }
 
 },
 {
-"id":"si66326",
+"id":"si70286",
 "class":"TODO::Senthil",
-"instance":"Button_1284",
+"instance":"Button_1438",
+"roles":{
+"click":{
+"subtype":"button"
+}
+,
+"question":{
+"interactionId":"70281",
+"quizId":-1,
+"text":"",
+"type":"graded",
+"interactionType":"choice",
+"score":{
+"weight":1,
+"penalty":0
+}
+
+}
+,
+"textData":{
+}
+
+}
+
+},
+{
+"id":"si70300",
+"class":"TODO::Senthil",
+"instance":"Button_1439",
 "roles":{
 "click":{
 "subtype":"button"
@@ -6917,12 +8460,25 @@
 
 },
 {
-"id":"si66340",
+"id":"si70314",
 "class":"TODO::Senthil",
-"instance":"Button_1285",
+"instance":"Button_1440",
 "roles":{
 "click":{
 "subtype":"button"
+}
+,
+"question":{
+"interactionId":"70309",
+"quizId":-1,
+"text":"",
+"type":"graded",
+"interactionType":"choice",
+"score":{
+"weight":1,
+"penalty":0
+}
+
 }
 ,
 "textData":{
@@ -6932,129 +8488,9 @@
 
 },
 {
-"id":"si66354",
-"class":"TODO::Senthil",
-"instance":"Button_1286",
-"roles":{
-"click":{
-"subtype":"button"
-}
-,
-"textData":{
-}
-
-}
-
-},
-{
-"id":"si66368",
-"class":"TODO::Senthil",
-"instance":"Button_1287",
-"roles":{
-"click":{
-"subtype":"button"
-}
-,
-"textData":{
-}
-
-}
-
-},
-{
-"id":"si66382",
-"class":"TODO::Senthil",
-"instance":"Button_1288",
-"roles":{
-"click":{
-"subtype":"button"
-}
-,
-"textData":{
-}
-
-}
-
-},
-{
-"id":"si66396",
-"class":"TODO::Senthil",
-"instance":"Button_1289",
-"roles":{
-"click":{
-"subtype":"button"
-}
-,
-"textData":{
-}
-
-}
-
-},
-{
-"id":"si66410",
-"class":"TODO::Senthil",
-"instance":"Button_1290",
-"roles":{
-"click":{
-"subtype":"button"
-}
-,
-"textData":{
-}
-
-}
-
-},
-{
-"id":"si66424",
-"class":"TODO::Senthil",
-"instance":"Button_1291",
-"roles":{
-"click":{
-"subtype":"button"
-}
-,
-"textData":{
-}
-
-}
-
-},
-{
-"id":"si66438",
-"class":"TODO::Senthil",
-"instance":"Button_1292",
-"roles":{
-"click":{
-"subtype":"button"
-}
-,
-"textData":{
-}
-
-}
-
-},
-{
-"id":"si66452",
-"class":"TODO::Senthil",
-"instance":"Button_1293",
-"roles":{
-"click":{
-"subtype":"button"
-}
-,
-"textData":{
-}
-
-}
-
-},
-{
-"id":"Slide47580",
+"id":"Slide70359",
 "class":"Normal Slide",
-"instance":"Let's recap",
+"instance":"Step 6- video",
 "thumbnail":"",
 "children":[],
 "roles":{
@@ -7063,7 +8499,7 @@
 }
 ,
 "navigation":{
-"navid":"Slide47580"
+"navid":"Slide70359"
 }
 
 }
@@ -7416,7 +8852,7 @@
 {
 "id":"Slide69505",
 "class":"Question Slide",
-"instance":"Multiple choice 2",
+"instance":"Quiz Q7",
 "thumbnail":"",
 "children":[],
 "roles":{
@@ -7524,6 +8960,18 @@
 "subtype":"button"
 }
 ,
+"question":{
+"quizId":-1,
+"text":"",
+"type":"graded",
+"interactionType":"choice",
+"score":{
+"weight":1,
+"penalty":0
+}
+
+}
+,
 "textData":{
 }
 
@@ -7568,6 +9016,19 @@
 "roles":{
 "click":{
 "subtype":"button"
+}
+,
+"question":{
+"interactionId":"69600",
+"quizId":-1,
+"text":"",
+"type":"graded",
+"interactionType":"choice",
+"score":{
+"weight":1,
+"penalty":0
+}
+
 }
 ,
 "textData":{
@@ -7690,6 +9151,19 @@
 "subtype":"button"
 }
 ,
+"question":{
+"interactionId":"69715",
+"quizId":-1,
+"text":"",
+"type":"graded",
+"interactionType":"choice",
+"score":{
+"weight":1,
+"penalty":0
+}
+
+}
+,
 "textData":{
 }
 
@@ -7714,7 +9188,7 @@
 {
 "id":"Slide69768",
 "class":"Normal Slide",
-"instance":"Short answer A6 - 7",
+"instance":"Quiz A7",
 "thumbnail":"",
 "children":[],
 "roles":{
@@ -7730,25 +9204,25 @@
 
 },
 {
-"id":"si69016",
+"id":"si70412",
 "class":"TODO::Senthil",
-"instance":"Slide_video_13",
+"instance":"Slide_video_15",
 "roles":{
 }
 
 },
 {
-"id":"si69010",
+"id":"si70406",
 "class":"TODO::Senthil",
-"instance":"Video_Group_13",
+"instance":"Video_Group_15",
 "roles":{
 }
 
 },
 {
-"id":"si68988",
+"id":"si70384",
 "class":"TODO::Senthil",
-"instance":"Conclusion_(6)_mp4_1",
+"instance":"Conclusion_(7)_mp4_1",
 "video":{
 "title":"Video title- NI",
 "uri":"Video title- NI",
@@ -7761,9 +9235,244 @@
 
 },
 {
-"id":"si68996",
+"id":"si70392",
 "class":"TODO::Senthil",
-"instance":"Text_1212",
+"instance":"Text_1228",
+"roles":{
+"click":{
+"subtype":"button"
+}
+,
+"question":{
+"quizId":-1,
+"text":"",
+"type":"graded",
+"interactionType":"choice",
+"score":{
+"weight":1,
+"penalty":0
+}
+
+}
+,
+"textData":{
+}
+
+}
+
+},
+{
+"id":"si70400",
+"class":"TODO::Senthil",
+"instance":"Text_1229",
+"roles":{
+"click":{
+"subtype":"button"
+}
+,
+"question":{
+"interactionId":"70395",
+"quizId":-1,
+"text":"",
+"type":"graded",
+"interactionType":"choice",
+"score":{
+"weight":1,
+"penalty":0
+}
+
+}
+,
+"textData":{
+}
+
+}
+
+},
+{
+"id":"si70577",
+"class":"TODO::Senthil",
+"instance":"Block_Button_30",
+"roles":{
+}
+
+},
+{
+"id":"si70571",
+"class":"TODO::Senthil",
+"instance":"Block_Button_Group_30",
+"roles":{
+}
+
+},
+{
+"id":"si70436",
+"class":"TODO::Senthil",
+"instance":"Button_1441",
+"roles":{
+"click":{
+"subtype":"button"
+}
+,
+"question":{
+"quizId":-1,
+"text":"",
+"type":"graded",
+"interactionType":"choice",
+"score":{
+"weight":1,
+"penalty":0
+}
+
+}
+,
+"textData":{
+}
+
+}
+
+},
+{
+"id":"si70453",
+"class":"TODO::Senthil",
+"instance":"Button_1442",
+"roles":{
+"click":{
+"subtype":"button"
+}
+,
+"question":{
+"quizId":-1,
+"text":"",
+"type":"graded",
+"interactionType":"choice",
+"score":{
+"weight":1,
+"penalty":0
+}
+
+}
+,
+"textData":{
+}
+
+}
+
+},
+{
+"id":"si70467",
+"class":"TODO::Senthil",
+"instance":"Button_1443",
+"roles":{
+"click":{
+"subtype":"button"
+}
+,
+"question":{
+"interactionId":"70462",
+"quizId":-1,
+"text":"",
+"type":"graded",
+"interactionType":"choice",
+"score":{
+"weight":1,
+"penalty":0
+}
+
+}
+,
+"textData":{
+}
+
+}
+
+},
+{
+"id":"si70481",
+"class":"TODO::Senthil",
+"instance":"Button_1444",
+"roles":{
+"click":{
+"subtype":"button"
+}
+,
+"question":{
+"interactionId":"70476",
+"quizId":-1,
+"text":"",
+"type":"graded",
+"interactionType":"choice",
+"score":{
+"weight":1,
+"penalty":0
+}
+
+}
+,
+"textData":{
+}
+
+}
+
+},
+{
+"id":"si70495",
+"class":"TODO::Senthil",
+"instance":"Button_1445",
+"roles":{
+"click":{
+"subtype":"button"
+}
+,
+"question":{
+"quizId":-1,
+"text":"",
+"type":"graded",
+"interactionType":"choice",
+"score":{
+"weight":1,
+"penalty":0
+}
+
+}
+,
+"textData":{
+}
+
+}
+
+},
+{
+"id":"si70509",
+"class":"TODO::Senthil",
+"instance":"Button_1446",
+"roles":{
+"click":{
+"subtype":"button"
+}
+,
+"question":{
+"quizId":-1,
+"text":"",
+"type":"graded",
+"interactionType":"choice",
+"score":{
+"weight":1,
+"penalty":0
+}
+
+}
+,
+"textData":{
+}
+
+}
+
+},
+{
+"id":"si70523",
+"class":"TODO::Senthil",
+"instance":"Button_1447",
 "roles":{
 "click":{
 "subtype":"button"
@@ -7776,9 +9485,64 @@
 
 },
 {
-"id":"si69004",
+"id":"si70537",
 "class":"TODO::Senthil",
-"instance":"Text_1213",
+"instance":"Button_1448",
+"roles":{
+"click":{
+"subtype":"button"
+}
+,
+"question":{
+"quizId":-1,
+"text":"",
+"type":"graded",
+"interactionType":"choice",
+"score":{
+"weight":1,
+"penalty":0
+}
+
+}
+,
+"textData":{
+}
+
+}
+
+},
+{
+"id":"si70551",
+"class":"TODO::Senthil",
+"instance":"Button_1449",
+"roles":{
+"click":{
+"subtype":"button"
+}
+,
+"question":{
+"interactionId":"70546",
+"quizId":-1,
+"text":"",
+"type":"graded",
+"interactionType":"choice",
+"score":{
+"weight":1,
+"penalty":0
+}
+
+}
+,
+"textData":{
+}
+
+}
+
+},
+{
+"id":"si70565",
+"class":"TODO::Senthil",
+"instance":"Button_1450",
 "roles":{
 "click":{
 "subtype":"button"
@@ -7791,175 +9555,9 @@
 
 },
 {
-"id":"si69181",
-"class":"TODO::Senthil",
-"instance":"Block_Button_27",
-"roles":{
-}
-
-},
-{
-"id":"si69175",
-"class":"TODO::Senthil",
-"instance":"Block_Button_Group_27",
-"roles":{
-}
-
-},
-{
-"id":"si69040",
-"class":"TODO::Senthil",
-"instance":"Button_1396",
-"roles":{
-"click":{
-"subtype":"button"
-}
-,
-"textData":{
-}
-
-}
-
-},
-{
-"id":"si69057",
-"class":"TODO::Senthil",
-"instance":"Button_1397",
-"roles":{
-"click":{
-"subtype":"button"
-}
-,
-"textData":{
-}
-
-}
-
-},
-{
-"id":"si69071",
-"class":"TODO::Senthil",
-"instance":"Button_1398",
-"roles":{
-"click":{
-"subtype":"button"
-}
-,
-"textData":{
-}
-
-}
-
-},
-{
-"id":"si69085",
-"class":"TODO::Senthil",
-"instance":"Button_1399",
-"roles":{
-"click":{
-"subtype":"button"
-}
-,
-"textData":{
-}
-
-}
-
-},
-{
-"id":"si69099",
-"class":"TODO::Senthil",
-"instance":"Button_1400",
-"roles":{
-"click":{
-"subtype":"button"
-}
-,
-"textData":{
-}
-
-}
-
-},
-{
-"id":"si69113",
-"class":"TODO::Senthil",
-"instance":"Button_1401",
-"roles":{
-"click":{
-"subtype":"button"
-}
-,
-"textData":{
-}
-
-}
-
-},
-{
-"id":"si69127",
-"class":"TODO::Senthil",
-"instance":"Button_1402",
-"roles":{
-"click":{
-"subtype":"button"
-}
-,
-"textData":{
-}
-
-}
-
-},
-{
-"id":"si69141",
-"class":"TODO::Senthil",
-"instance":"Button_1403",
-"roles":{
-"click":{
-"subtype":"button"
-}
-,
-"textData":{
-}
-
-}
-
-},
-{
-"id":"si69155",
-"class":"TODO::Senthil",
-"instance":"Button_1404",
-"roles":{
-"click":{
-"subtype":"button"
-}
-,
-"textData":{
-}
-
-}
-
-},
-{
-"id":"si69169",
-"class":"TODO::Senthil",
-"instance":"Button_1405",
-"roles":{
-"click":{
-"subtype":"button"
-}
-,
-"textData":{
-}
-
-}
-
-},
-{
-"id":"Slide69214",
+"id":"Slide70610",
 "class":"Normal Slide",
-"instance":"Let's recap - 1",
+"instance":"Final video",
 "thumbnail":"",
 "children":[],
 "roles":{
@@ -7968,7 +9566,7 @@
 }
 ,
 "navigation":{
-"navid":"Slide69214"
+"navid":"Slide70610"
 }
 
 }
@@ -8401,7 +9999,7 @@
 {
 "id":"Slide69775",
 "class":"Question Slide",
-"instance":"Sequence 1",
+"instance":"Quiz Q8",
 "thumbnail":"",
 "children":[],
 "roles":{
@@ -8458,6 +10056,18 @@
 "subtype":"button"
 }
 ,
+"question":{
+"quizId":-1,
+"text":"",
+"type":"graded",
+"interactionType":"choice",
+"score":{
+"weight":1,
+"penalty":0
+}
+
+}
+,
 "textData":{
 }
 
@@ -8471,6 +10081,19 @@
 "roles":{
 "click":{
 "subtype":"button"
+}
+,
+"question":{
+"interactionId":"53614",
+"quizId":-1,
+"text":"",
+"type":"graded",
+"interactionType":"choice",
+"score":{
+"weight":1,
+"penalty":0
+}
+
 }
 ,
 "textData":{
@@ -8488,6 +10111,19 @@
 "subtype":"button"
 }
 ,
+"question":{
+"interactionId":"53622",
+"quizId":-1,
+"text":"",
+"type":"graded",
+"interactionType":"choice",
+"score":{
+"weight":1,
+"penalty":0
+}
+
+}
+,
 "textData":{
 }
 
@@ -8503,6 +10139,19 @@
 "subtype":"button"
 }
 ,
+"question":{
+"interactionId":"53642",
+"quizId":-1,
+"text":"",
+"type":"graded",
+"interactionType":"choice",
+"score":{
+"weight":1,
+"penalty":0
+}
+
+}
+,
 "textData":{
 }
 
@@ -8516,6 +10165,19 @@
 "roles":{
 "click":{
 "subtype":"button"
+}
+,
+"question":{
+"interactionId":"53659",
+"quizId":-1,
+"text":"",
+"type":"graded",
+"interactionType":"choice",
+"score":{
+"weight":1,
+"penalty":0
+}
+
 }
 ,
 "textData":{
@@ -8542,7 +10204,7 @@
 {
 "id":"Slide53712",
 "class":"Normal Slide",
-"instance":"Multiple A7",
+"instance":"Quiz A8",
 "thumbnail":"",
 "children":[],
 "roles":{
@@ -8978,7 +10640,7 @@
 {
 "id":"Slide48014",
 "class":"Question Slide",
-"instance":"Result 1",
+"instance":"Results",
 "thumbnail":"",
 "children":[],
 "roles":{
@@ -9016,6 +10678,18 @@
 "roles":{
 "click":{
 "subtype":"button"
+}
+,
+"question":{
+"quizId":-1,
+"text":"",
+"type":"graded",
+"interactionType":"choice",
+"score":{
+"weight":1,
+"penalty":0
+}
+
 }
 ,
 "textData":{
@@ -9124,6 +10798,19 @@
 "subtype":"button"
 }
 ,
+"question":{
+"interactionId":"68044",
+"quizId":-1,
+"text":"",
+"type":"graded",
+"interactionType":"choice",
+"score":{
+"weight":1,
+"penalty":0
+}
+
+}
+,
 "textData":{
 }
 
@@ -9169,6 +10856,18 @@
 "subtype":"button"
 }
 ,
+"question":{
+"quizId":-1,
+"text":"",
+"type":"graded",
+"interactionType":"choice",
+"score":{
+"weight":1,
+"penalty":0
+}
+
+}
+,
 "textData":{
 }
 
@@ -9199,6 +10898,18 @@
 "subtype":"button"
 }
 ,
+"question":{
+"quizId":-1,
+"text":"",
+"type":"graded",
+"interactionType":"choice",
+"score":{
+"weight":1,
+"penalty":0
+}
+
+}
+,
 "textData":{
 }
 
@@ -9212,6 +10923,19 @@
 "roles":{
 "click":{
 "subtype":"button"
+}
+,
+"question":{
+"interactionId":"68128",
+"quizId":-1,
+"text":"",
+"type":"graded",
+"interactionType":"choice",
+"score":{
+"weight":1,
+"penalty":0
+}
+
 }
 ,
 "textData":{
@@ -9229,6 +10953,19 @@
 "subtype":"button"
 }
 ,
+"question":{
+"interactionId":"68142",
+"quizId":-1,
+"text":"",
+"type":"graded",
+"interactionType":"choice",
+"score":{
+"weight":1,
+"penalty":0
+}
+
+}
+,
 "textData":{
 }
 
@@ -9242,6 +10979,19 @@
 "roles":{
 "click":{
 "subtype":"button"
+}
+,
+"question":{
+"interactionId":"68156",
+"quizId":-1,
+"text":"",
+"type":"graded",
+"interactionType":"choice",
+"score":{
+"weight":1,
+"penalty":0
+}
+
 }
 ,
 "textData":{
@@ -9259,6 +11009,19 @@
 "subtype":"button"
 }
 ,
+"question":{
+"interactionId":"68170",
+"quizId":-1,
+"text":"",
+"type":"graded",
+"interactionType":"choice",
+"score":{
+"weight":1,
+"penalty":0
+}
+
+}
+,
 "textData":{
 }
 
@@ -9268,7 +11031,7 @@
 {
 "id":"Slide59239",
 "class":"Normal Slide",
-"instance":"Blank 1",
+"instance":"Final",
 "thumbnail":"",
 "children":[],
 "roles":{
@@ -9297,10 +11060,10 @@
 
 },
 {
-"id":"Control v3- 3-1-26",
+"id":"Control v4- 3-3-26",
 "class":"project",
-"title":"Control v3- 3-1-26",
-"children":["Slide24910","Slide45138","Slide68373","Slide63314","Slide68897","Slide60547","Slide63650","Slide63503","Slide53988","Slide64823","Slide46813","Slide56811","Slide64103","Slide46888","Slide54558","Slide64223","Slide47061","Slide57837","Slide64343","Slide47234","Slide55106","Slide64463","Slide47505","Slide58851","Slide64703","Slide47580","Slide69505","Slide69768","Slide69214","Slide69775","Slide53712","Slide48014","Slide59239"],
+"title":"Control v4- 3-3-26",
+"children":["Slide24910","Slide45138","Slide68373","Slide63314","Slide68897","Slide60547","Slide63650","Slide63503","Slide53988","Slide64823","Slide46813","Slide56811","Slide64103","Slide46888","Slide54558","Slide64223","Slide47061","Slide57837","Slide64343","Slide47234","Slide55106","Slide64463","Slide47505","Slide58851","Slide64703","Slide70359","Slide69505","Slide69768","Slide70610","Slide69775","Slide53712","Slide48014","Slide59239"],
 "roles":{
 "quiz":{
 "id":199,
@@ -9351,6 +11114,43 @@
 ,
 "exitNormalIfCompleted":false
 }
+,"eventVideos":[{
+"id":"si60497",
+"uri":"vr/Vi68922.mp4"
+}
+,{
+"id":"si63453",
+"uri":"vr/Vi68928.mp4"
+}
+,{
+"id":"si46763",
+"uri":"vr/Vi68934.mp4"
+}
+,{
+"id":"si46838",
+"uri":"vr/Vi68940.mp4"
+}
+,{
+"id":"si47011",
+"uri":"vr/Vi68946.mp4"
+}
+,{
+"id":"si47184",
+"uri":"vr/Vi68952.mp4"
+}
+,{
+"id":"si47455",
+"uri":"vr/Vi68958.mp4"
+}
+,{
+"id":"si70133",
+"uri":"vr/Vi70360.mp4"
+}
+,{
+"id":"si70384",
+"uri":"vr/Vi70611.mp4"
+}
+]
 ,"toc":[{
 "id":"Slide24910",
 "title":"Welcome"
@@ -9361,127 +11161,127 @@
 }
 ,{
 "id":"Slide68373",
-"title":"Multiple choice A1 - 7"
+"title":"What if"
 }
 ,{
 "id":"Slide63314",
-"title":"Multiple choice A1 - 3"
+"title":"For 15 mins"
 }
 ,{
 "id":"Slide68897",
-"title":"Multiple choice A1 - 10"
+"title":"Quiz Q alert"
 }
 ,{
 "id":"Slide60547",
-"title":"Tactic 1 video - 1"
+"title":"Intro video - 1"
 }
 ,{
 "id":"Slide63650",
-"title":"Multiple choice A1 - 4"
+"title":"Ready_start"
 }
 ,{
 "id":"Slide63503",
-"title":"Tactic 1 video - 3"
+"title":"Intro video - 2"
 }
 ,{
 "id":"Slide53988",
-"title":"Multiple choice Q1"
+"title":"Quiz Q1"
 }
 ,{
 "id":"Slide64823",
-"title":"Short answer A6 - 6"
+"title":"Quiz A1"
 }
 ,{
 "id":"Slide46813",
-"title":"Tactic 1 video"
+"title":"Step 1 - video"
 }
 ,{
 "id":"Slide56811",
-"title":"Multiple choice Q2"
+"title":"Quiz Q2"
 }
 ,{
 "id":"Slide64103",
-"title":"Short answer A6 - 1"
+"title":"Quiz A2"
 }
 ,{
 "id":"Slide46888",
-"title":"Tactic 2 video"
+"title":"Step 2- video"
 }
 ,{
 "id":"Slide54558",
-"title":"Multiple choice Q3"
+"title":"Quiz Q3"
 }
 ,{
 "id":"Slide64223",
-"title":"Short answer A6 - 2"
+"title":"Quiz A3"
 }
 ,{
 "id":"Slide47061",
-"title":"Tactic 3 video"
+"title":"Step 3- video"
 }
 ,{
 "id":"Slide57837",
-"title":"Multiple choice Q4"
+"title":"Quiz Q4"
 }
 ,{
 "id":"Slide64343",
-"title":"Short answer A6 - 3"
+"title":"Quiz A4"
 }
 ,{
 "id":"Slide47234",
-"title":"Tactic 4 video"
+"title":"Step 4 - video"
 }
 ,{
 "id":"Slide55106",
-"title":"Multiple choice Q5"
+"title":"Quiz Q5"
 }
 ,{
 "id":"Slide64463",
-"title":"Short answer A6 - 4"
+"title":"Quiz A5"
 }
 ,{
 "id":"Slide47505",
-"title":"Tactic 5 video"
+"title":"Step 5- video"
 }
 ,{
 "id":"Slide58851",
-"title":"Multiple choice 1"
+"title":"Quiz Q6"
 }
 ,{
 "id":"Slide64703",
-"title":"Short answer A6 - 5"
+"title":"Quiz A6"
 }
 ,{
-"id":"Slide47580",
-"title":"Let's recap"
+"id":"Slide70359",
+"title":"Step 6- video"
 }
 ,{
 "id":"Slide69505",
-"title":"Multiple choice 2"
+"title":"Quiz Q7"
 }
 ,{
 "id":"Slide69768",
-"title":"Short answer A6 - 7"
+"title":"Quiz A7"
 }
 ,{
-"id":"Slide69214",
-"title":"Let's recap - 1"
+"id":"Slide70610",
+"title":"Final video"
 }
 ,{
 "id":"Slide69775",
-"title":"Sequence 1"
+"title":"Quiz Q8"
 }
 ,{
 "id":"Slide53712",
-"title":"Multiple A7"
+"title":"Quiz A8"
 }
 ,{
 "id":"Slide48014",
-"title":"Result 1"
+"title":"Results"
 }
 ,{
 "id":"Slide59239",
-"title":"Blank 1"
+"title":"Final"
 }
 ]
 }
